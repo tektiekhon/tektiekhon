@@ -13,7 +13,7 @@ I'm passionate about technology, particularly in the fields of web development a
 ## Projects
 Here are some areas where I'm currently focusing my efforts:
 
-- **Web Development Projects:** I'm working on various web development projects to enhance my skills in HTML, CSS, JavaScript, and other related technologies. These projects include building responsive websites, web applications, and exploring frontend and backend frameworks.
+- **Web Development Projects:** I'm working on various web development projects to enhance my skills in HTML, CSS, JavaScript, Python and other related technologies. These projects include building responsive websites, web applications, and exploring frontend and backend frameworks.
 
 - **Cybersecurity Projects:** I'm delving into the world of cybersecurity by studying topics such as ethical hacking, network security, cryptography, and more. I'm interested in contributing to projects that aim to enhance cybersecurity measures and protect against cyber threats.
 
