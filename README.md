@@ -5,7 +5,6 @@
 - 👀 I’m interested in becoming a proficient web developer and delving into the realm of cybersecurity.
 - 🌱 I’m currently learning computer science with a focus on web development and cybersecurity.
 - 💼 I'm open to collaborating on projects related to web development and cybersecurity.
-- 📧 You can reach me at: timtek9@gmail.com
 
 ## About Me
 I'm passionate about technology, particularly in the fields of web development and cybersecurity. I enjoy exploring new technologies and finding innovative solutions to real-world problems. My goal is to leverage my skills and knowledge to make a positive impact in the tech industry.
