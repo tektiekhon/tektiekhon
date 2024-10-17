@@ -1,6 +1,6 @@
-# Manasseh Timothy Tek
+# Manasseh Tek
 
-👋 Hi, I'm Manasseh Timothy Tek, but you can call me Tek!
+👋 Hi, I'm Manasseh Tek, but you can call me Tek!
 
 - 👀 I’m interested in becoming a proficient web developer and delving into the realm of cybersecurity.
 - 🌱 I’m currently learning computer science with a focus on web development and cybersecurity.
